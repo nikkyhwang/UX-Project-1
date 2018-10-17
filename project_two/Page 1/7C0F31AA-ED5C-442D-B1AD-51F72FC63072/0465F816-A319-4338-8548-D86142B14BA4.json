@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Version 1"
+    "string": "Version 2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,7 +53,7 @@
     "x": 102,
     "y": 76
   },
-  "glyphBounds": "{{0, 7}, {164, 29}}",
+  "glyphBounds": "{{0, 7}, {170, 29}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Version 1",
+  "name": "Version 2",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
